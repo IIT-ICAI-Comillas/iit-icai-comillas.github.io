@@ -1,20 +1,18 @@
 ---
 ---
 
-Welcome to [ICAI-IIT Home Page](https://github.com/IIT-comillas/iit-comillas.github.io) @ [Comillas Pontifical University](https://www.comillas.edu/en/)
+Welcome to [ICAI-IIT](https://www.iit.comillas.edu/index.php.en) GitHub Home page @ [Comillas Pontifical University](https://www.comillas.edu/en/)
 
-This site index all research areas at [ICAI-IIT](https://www.iit.comillas.edu/index.php.en).
-
-Research areas:
+Cool stuff for each area (their GitHubs):
 
  - [EMPA: Energy Systems Modelling and Policy Analysis](https://github.com/IIT-EnergySystemModels)
  - [AIA: Artificial Intelligence](https://github.com/IIT-ArtificialIntelligence)
  - [REDES: Distributed Resources, Networks and Flexibility](https://github.com/IIT-redes)
- - [MAC: Electric Power Systems](https://github.com/ICAI-IIT-MAC)
+ - [MAC: Electric Power Systems](https://github.com/IIT-MAC)
  - [BIO: Bioengineering]()
  - [INTEREST: Interdisciplinary Research on Socioeconomic Transformations]()
  - [ASF: Railway Systems]()
  - [ECOTECH: Environmental Technologies]()
 
-More info in [Areas of IIT](https://www.iit.comillas.edu/areas/index.php.en).
+Also, visit the main site to know more about [areas of IIT](https://www.iit.comillas.edu/areas/index.php.en).
 
